@@ -7,10 +7,13 @@ Slug: geospatial-machine-learning-projects
 Authors: Riley Albiston
 Summary: Short version for index and feeds
 
-https://medium.com/anolytics/what-are-the-ai-applications-for-satellite-imagery-in-machine-learning-3495b2abe514
+This is a list of articles to help get an idea of the types of projects which apply machine learning to geospatial data, generally using satellite imagery.
 
-https://towardsdatascience.com/data-science-and-satellite-imagery-985229e1cd2f
 
-https://medium.com/aifromscratch/machine-learning-applications-for-satellite-imagery-11001009f159
+[AI Applications for Satellite Imagery in Machine Learning](https://medium.com/anolytics/what-are-the-ai-applications-for-satellite-imagery-in-machine-learning-3495b2abe514)
 
-QUT ML project
+[Data Science and Satellite Imagery](https://towardsdatascience.com/data-science-and-satellite-imagery-985229e1cd2f)
+
+[Machine Learning Applications for Satellite Imagery](https://medium.com/aifromscratch/machine-learning-applications-for-satellite-imagery-11001009f159)
+
+**QUT ML project**
