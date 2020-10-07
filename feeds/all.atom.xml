@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Geospatial</title><link href="https://rileyalbiston.github.io/geospatial/" rel="alternate"></link><link href="https://rileyalbiston.github.io/geospatial/feeds/all.atom.xml" rel="self"></link><id>https://rileyalbiston.github.io/geospatial/</id><updated>2010-12-05T19:30:00+10:00</updated><entry><title>Geospatial Machine Learning Projects</title><link href="https://rileyalbiston.github.io/geospatial/geospatial-machine-learning-projects.html" rel="alternate"></link><published>2010-12-03T10:20:00+10:00</published><updated>2010-12-05T19:30:00+10:00</updated><author><name>Riley Albiston</name></author><id>tag:rileyalbiston.github.io,2010-12-03:/geospatial/geospatial-machine-learning-projects.html</id><summary type="html">&lt;p&gt;Short version for index and feeds&lt;/p&gt;</summary><content type="html">&lt;p&gt;https://medium.com/anolytics/what-are-the-ai-applications-for-satellite-imagery-in-machine-learning-3495b2abe514&lt;/p&gt;
+&lt;p&gt;https://towardsdatascience.com/data-science-and-satellite-imagery-985229e1cd2f&lt;/p&gt;
+&lt;p&gt;https://medium.com/aifromscratch/machine-learning-applications-for-satellite-imagery-11001009f159&lt;/p&gt;
+&lt;p&gt;QUT ML project&lt;/p&gt;</content><category term="GIS"></category></entry><entry><title>Spatial Analysis Fundamentals</title><link href="https://rileyalbiston.github.io/geospatial/spatial-analysis-fundamentals.html" rel="alternate"></link><published>2010-12-03T10:20:00+10:00</published><updated>2010-12-05T19:30:00+10:00</updated><author><name>Riley Albiston</name></author><id>tag:rileyalbiston.github.io,2010-12-03:/geospatial/spatial-analysis-fundamentals.html</id><summary type="html">&lt;p&gt;Short version for index and feeds&lt;/p&gt;</summary><content type="html">&lt;h2&gt;What is Geospatial Analysis&lt;/h2&gt;
+&lt;h2&gt;Geospatial Analysis vs GIS&lt;/h2&gt;
+&lt;h2&gt;Spatial Data&lt;/h2&gt;
+&lt;p&gt;Spatial data describes any data which contains information about location. The data will usually be stored as coordinates and/or topology. There are two main types of data format used in spatial analysis. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vector&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vector data is comprised of three data types:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Points - discrete data points representing a point of interest. Generally stored as a X and Y coordinate system such as latitude and longtitude.&lt;/li&gt;
+&lt;li&gt;Lines - represent linear features such as roads and rivers. They are stored as order sets of points. &lt;/li&gt;
+&lt;li&gt;Polygons - represent a boundry area such as a lake, country boarder etc. Polygons are 'closed' features make of a line that starts and ends at the same point. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Shapefiles&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Shapefile"&gt;Shapefile Wiki&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Shapefiles (.shp) are a geospatial vector data format developed by Esri. Shapefiles can contain all vector data formats (points, lines, and polygons). While the format was developed and is regulated by Esri (ArcGIS) it can be used with other platforms such a python scripts, PostGIS and QGIS. It is important to note that shapefiles are in truth a collection of files which at minimum include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;.shp — shape format&lt;/li&gt;
+&lt;li&gt;.shx — shape index format&lt;/li&gt;
+&lt;li&gt;.dbf — attribute format&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The file set may also contain many other file types.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Raster&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Map Projections - Coordinate Reference System&lt;/h2&gt;
+&lt;p&gt;https://spatialreference.org/&lt;/p&gt;
+&lt;p&gt;https://en.wikipedia.org/wiki/Spatial_reference_system&lt;/p&gt;
+&lt;p&gt;https://docs.qgis.org/2.18/en/docs/gentle_gis_introduction/coordinate_reference_systems.html&lt;/p&gt;
+&lt;h1&gt;Geospatial Software and Programming&lt;/h1&gt;
+&lt;h2&gt;Proprietary Software:&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;ArcGIS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Esri's ArcGIS suite of software products is considered the industry standard for geospatial software. It is used globally by all levels of government and academic institutions. &lt;/p&gt;
+&lt;h2&gt;Open Source:&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Python&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Python has many modules for analysing and visualising geospatial data. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PostGIS Database&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;QGIS&lt;/strong&gt;&lt;/p&gt;</content><category term="GIS"></category></entry></feed>

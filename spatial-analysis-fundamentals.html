@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <meta name="generator" content="Pelican" />
+        <title>Spatial Analysis Fundamentals</title>
+        <link rel="stylesheet" href="./theme/css/main.css" />
+        <link href="https://rileyalbiston.github.io/geospatial/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Geospatial Atom Feed" />
+        <meta name="description" content="Short version for index and feeds" />
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="./">Geospatial</a></h1>
+                <nav><ul>
+                    <li><a href="./pages/geospatial-articles-list.html">Geospatial Articles List</a></li>
+                    <li><a href="./pages/glossary-of-terms.html">Glossary of Terms</a></li>
+                    <li><a href="./pages/resources.html">Resources</a></li>
+                    <li class="active"><a href="./category/gis.html">GIS</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="./spatial-analysis-fundamentals.html" rel="bookmark"
+           title="Permalink to Spatial Analysis Fundamentals">Spatial Analysis Fundamentals</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2010-12-03T10:20:00+10:00">
+                Published: 03/12/2010
+        </abbr>
+		<br />
+        <abbr class="modified" title="2010-12-05T19:30:00+10:00">
+                Updated: 05/12/2010
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="./author/riley-albiston.html">Riley Albiston</a>
+        </address>
+<p>In <a href="./category/gis.html">GIS</a>.</p>
+
+</footer><!-- /.post-info -->      <h2>What is Geospatial Analysis</h2>
+<h2>Geospatial Analysis vs GIS</h2>
+<h2>Spatial Data</h2>
+<p>Spatial data describes any data which contains information about location. The data will usually be stored as coordinates and/or topology. There are two main types of data format used in spatial analysis. </p>
+<p><strong>Vector</strong></p>
+<p>Vector data is comprised of three data types:</p>
+<ul>
+<li>Points - discrete data points representing a point of interest. Generally stored as a X and Y coordinate system such as latitude and longtitude.</li>
+<li>Lines - represent linear features such as roads and rivers. They are stored as order sets of points. </li>
+<li>Polygons - represent a boundry area such as a lake, country boarder etc. Polygons are 'closed' features make of a line that starts and ends at the same point. </li>
+</ul>
+<p><strong>Shapefiles</strong></p>
+<p><a href="https://en.wikipedia.org/wiki/Shapefile">Shapefile Wiki</a></p>
+<p>Shapefiles (.shp) are a geospatial vector data format developed by Esri. Shapefiles can contain all vector data formats (points, lines, and polygons). While the format was developed and is regulated by Esri (ArcGIS) it can be used with other platforms such a python scripts, PostGIS and QGIS. It is important to note that shapefiles are in truth a collection of files which at minimum include:</p>
+<ul>
+<li>.shp — shape format</li>
+<li>.shx — shape index format</li>
+<li>.dbf — attribute format</li>
+</ul>
+<p>The file set may also contain many other file types.</p>
+<p><strong>Raster</strong></p>
+<h2>Map Projections - Coordinate Reference System</h2>
+<p>https://spatialreference.org/</p>
+<p>https://en.wikipedia.org/wiki/Spatial_reference_system</p>
+<p>https://docs.qgis.org/2.18/en/docs/gentle_gis_introduction/coordinate_reference_systems.html</p>
+<h1>Geospatial Software and Programming</h1>
+<h2>Proprietary Software:</h2>
+<p><strong>ArcGIS</strong></p>
+<p>Esri's ArcGIS suite of software products is considered the industry standard for geospatial software. It is used globally by all levels of government and academic institutions. </p>
+<h2>Open Source:</h2>
+<p><strong>Python</strong></p>
+<p>Python has many modules for analysing and visualising geospatial data. </p>
+<p><strong>PostGIS Database</strong></p>
+<p><strong>QGIS</strong></p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>links</h2>
+                        <ul>
+                            <li><a href="https://getpelican.com/">Pelican</a></li>
+                            <li><a href="https://www.python.org/">Python.org</a></li>
+                            <li><a href="https://palletsprojects.com/p/jinja/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="https://rileyalbiston.github.io/geospatial/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="https://getpelican.com/">Pelican</a>, which takes great advantage of <a href="https://www.python.org/">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>
