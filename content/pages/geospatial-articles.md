@@ -10,15 +10,14 @@ Summary: Short version for index and feeds
 
 ## Emergency Response, Bushfire Prediction etc
 
-https://ardc.edu.au/news/researchers-creating-models-to-assess-bushfire-risk/
+[ARDC: Accurately assessing the risk of bushfires is now a real possibility](https://ardc.edu.au/news/researchers-creating-models-to-assess-bushfire-risk/)
 
-https://ardc.edu.au/collaborations/strategic-activities/translational-research-data-challenges/bushfire-data-challenges/
+[ARDC: Bushfire Data Challenges](https://ardc.edu.au/collaborations/strategic-activities/translational-research-data-challenges/bushfire-data-challenges/)
 
-https://theconversation.com/andrew-forrests-high-tech-plan-to-extinguish-bushfires-within-an-hour-is-as-challenging-as-it-sounds-146194
-
+[The Conversation: high-tech plan to extinguish bushfires within an hour](https://theconversation.com/andrew-forrests-high-tech-plan-to-extinguish-bushfires-within-an-hour-is-as-challenging-as-it-sounds-146194)
 
 ## Applications of GIS
 
-https://theconversation.com/how-virtual-3d-modelling-and-simulation-can-help-us-create-better-cities-88635
+[The Conversation: How virtual 3D modelling and simulation can help us create better cities](https://theconversation.com/how-virtual-3d-modelling-and-simulation-can-help-us-create-better-cities-88635)
 
-https://www.gislounge.com/line-of-sight-in-gis/
+[GISLounge: Line of Sight in GIS](https://www.gislounge.com/line-of-sight-in-gis/)
