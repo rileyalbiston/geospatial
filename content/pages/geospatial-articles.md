@@ -8,14 +8,17 @@ Authors: Riley Albiston
 Summary: Short version for index and feeds
 
 
-https://theconversation.com/how-virtual-3d-modelling-and-simulation-can-help-us-create-better-cities-88635
-
-
-https://theconversation.com/andrew-forrests-high-tech-plan-to-extinguish-bushfires-within-an-hour-is-as-challenging-as-it-sounds-146194
-
+## Emergency Response, Bushfire Prediction etc
 
 https://ardc.edu.au/news/researchers-creating-models-to-assess-bushfire-risk/
 
 https://ardc.edu.au/collaborations/strategic-activities/translational-research-data-challenges/bushfire-data-challenges/
+
+https://theconversation.com/andrew-forrests-high-tech-plan-to-extinguish-bushfires-within-an-hour-is-as-challenging-as-it-sounds-146194
+
+
+## Applications of GIS
+
+https://theconversation.com/how-virtual-3d-modelling-and-simulation-can-help-us-create-better-cities-88635
 
 https://www.gislounge.com/line-of-sight-in-gis/

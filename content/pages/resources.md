@@ -32,7 +32,13 @@ Summary: Short version for index and feeds
 
 [City of Melbourne Open Data](https://data.melbourne.vic.gov.au/)
 
+[TerriaJS](https://terria.io/applications)
+
 ## World
+
+[USGS Earth Explorer](https://earthexplorer.usgs.gov/)
+
+[Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/)
 
 [Natural Earth](http://www.naturalearthdata.com/)
 
