@@ -6,6 +6,7 @@ SITENAME = 'Geospatial'
 SITEURL = ''
 
 PATH = 'content'
+OUTPUT_PATH = 'output/'
 
 TIMEZONE = 'Australia/Queensland'
 
