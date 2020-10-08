@@ -1,9 +1,9 @@
-Title: Resources
+Title: Data Sources
 Date: 2010-12-03 10:20
 Modified: 2010-12-05 19:30
 Category: Resources
 Tags: 
-Slug: resources
+Slug: data-sources
 Authors: Riley Albiston
 Summary: Short version for index and feeds
 
