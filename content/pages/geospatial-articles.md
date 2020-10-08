@@ -21,3 +21,7 @@ Summary: Short version for index and feeds
 [The Conversation: How virtual 3D modelling and simulation can help us create better cities](https://theconversation.com/how-virtual-3d-modelling-and-simulation-can-help-us-create-better-cities-88635)
 
 [GISLounge: Line of Sight in GIS](https://www.gislounge.com/line-of-sight-in-gis/)
+
+## Map Making and Cartography
+
+[Making Maps that Look Great Using QGIS and Inkscape](https://dges.carleton.ca/CUOSGwiki/index.php/Making_Maps_that_Look_Great_Using_QGIS_and_Inkscape)
