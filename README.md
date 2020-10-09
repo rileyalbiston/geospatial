@@ -1,3 +1,31 @@
+
+## Website Structure
+
+**Main Menu Items**
+
+* Home/About Me - Shows basic profile (use same paragraph as LinkedIn profile)
+* Resume
+* GIS Portfolio
+* Blog
+* Resources
+
+**GIS Portfolio Page**
+
+Simple description of each project. Outline what it demostrates (skills, problems solved etc). Main goal is the highlight maps and dashboards.
+Have links to the full project right up on the blog and/or to the github repo
+
+**Blog**
+
+For full detailed expaination of project, including code samples and screen shots. Maybe be written as a tutorial or project outline.
+
+Project outlines will include:
+
+* Aims and Objectives
+* Links to Data Sources
+* Considerations
+* Step by step how-to with code samples
+* Future work that could expand the project
+
 ## Categories
 
 * postgis
