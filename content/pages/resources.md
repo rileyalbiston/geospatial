@@ -41,6 +41,10 @@ List of useful sites for finding grid zones, cooridnate conversions etc
 
 [USGS Earth Explorer](https://earthexplorer.usgs.gov/)
 
+[Earth Observing System (EOS) Sentinel-2](https://eos.com/sentinel-2/)
+
+[EOS Land Viewer](https://eos.com/landviewer/)
+
 [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/)
 
 [Natural Earth](http://www.naturalearthdata.com/)
@@ -69,6 +73,17 @@ List of useful sites for finding grid zones, cooridnate conversions etc
 
 [QGIS User Guide](https://docs.qgis.org/3.10/en/docs/user_manual/)
 
+[QGIS Tutorials and Tips](https://www.qgistutorials.com/en/)
+
+In-person training material, originally developed for the New York City Department of Transportation by Datapolitan:
+
+[Introduction to GIS Fundamentals](https://training.datapolitan.com/qgis-training/Introduction_to_GIS_Fundamentals/#1)
+
+[Intermediate GIS with QGIS and PostGIS](https://training.datapolitan.com/qgis-training/Intermediate_GIS/#1)
+
+[Source code for training materials](https://github.com/Datapolitan-Training/qgis-training)
+
+
 ## Misc Tutorials
 
 [Data Carpentry Introduction to Geospatial Concepts](https://datacarpentry.org/organization-geospatial/)
@@ -80,6 +95,8 @@ http://maps.ga.gov.au/interactive-maps/#/theme/national-location-information/map
 # GIS Portfolios
 
 List of GIS Portfolios for inspiration.
+
+[Geospatial Data Science Qiusheng Wu](https://blog.gishub.org/)
 
 [Heather M. (Cormier) Bhowmick](https://heathercormier.weebly.com/gis-portfolio.html)
 
@@ -105,11 +122,17 @@ Interesting GIS related articles.
 
 [The Conversation: high-tech plan to extinguish bushfires within an hour](https://theconversation.com/andrew-forrests-high-tech-plan-to-extinguish-bushfires-within-an-hour-is-as-challenging-as-it-sounds-146194)
 
+[Step by step: Burn Severity with Python and optical data (Sentinel-2)](https://un-spider.org/advisory-support/recommended-practices/recommended-practice-burn-severity/Step-by-Step/python-sentinel2)
+
 ## Applications of GIS
 
 [The Conversation: How virtual 3D modelling and simulation can help us create better cities](https://theconversation.com/how-virtual-3d-modelling-and-simulation-can-help-us-create-better-cities-88635)
 
 [GISLounge: Line of Sight in GIS](https://www.gislounge.com/line-of-sight-in-gis/)
+
+[DIY Geospatial Data Management Part 1: Planning](https://topogra.ph/posts/build-own-geoservice/part1-planning/)
+
+[Landsat 8 Bands and Band Combinations](https://gisgeography.com/landsat-8-bands-combinations/)
 
 ## Map Making and Cartography
 
